@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* 16 pix - Tamanho padrão */
+    font-size: 1.2rem;
+    width: 1140px;
+    margin: auto;
+}
+
+    h1 {
+        text-size-adjust: 48px;
+        text-align: center;
+        font-weight: 600;
+    }
+    h2{
+    
+   
+        text-size-adjust: 30px;
+        color: #2D8067;
+    }
+
+
+
+
+
